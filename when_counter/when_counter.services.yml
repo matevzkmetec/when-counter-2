@@ -1,0 +1,3 @@
+services:
+ when_counter.when_counter_service:
+   class: Drupal\when_counter\WhenCounterService
